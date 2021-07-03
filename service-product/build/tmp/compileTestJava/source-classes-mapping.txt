@@ -1,0 +1,4 @@
+co/com/poli/store/product/ProductApplicationTests.java
+ co.com.poli.store.product.ProductApplicationTests
+co/com/poli/store/product/repositories/ProductRepositoryMockTest.java
+ co.com.poli.store.product.repositories.ProductRepositoryMockTest
